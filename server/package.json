@@ -1,0 +1,19 @@
+{
+  "name": "workshop-graphql-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "## Installation de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasrogerlux/workshop-graphql-nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/thomasrogerlux/workshop-graphql-nodejs-mongodb#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.2",
+    "graphql": "^14.1.1",
+    "mongoose": "^5.4.20"
+  }
+}
